@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+  
+    font-size: x-large;
+}
+
+h1 {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.logo {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 300px;
+    height: 100px;
+}
+#header{
+    transition: color 0.5s ease-in-out;
+
+  }
+  #header{
+    background: radial-gradient(circle,crimson,black,white);
+    -webkit-background-clip:text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+
+
+
+  }

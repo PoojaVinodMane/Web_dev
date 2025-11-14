@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+    #contactsection{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        
+        }
+        #contactsection {
+           background-image: url(Ablock.jpeg);
+           margin: 0;
+           padding:12px 14px;
+          background-repeat: no-repeat;
+          background-size: cover;
+          background-attachment: fixed;
+}
+#contactsection h2{
+    display: inline-block;
+    padding: 10px 30px;
+    background-color: transparent;
+    color:crimson;
+    border: 2px solid black;
+    font-size: 2rem;
+    letter-spacing: 0rem;
+    font-family: 'Montserrat',sans-serif;
+    
+}
+#contactsection p{
+    font-family: 'Montserrat',sans-serif;
+    color: black;
+
+}

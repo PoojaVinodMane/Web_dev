@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+   
+    #header h2{
+    font-family: 'Montserrat',sans-serif;
+    color: black;
+    text-align: center;
+    }
+    #header h2{
+      transition: color 0.5s ease-in-out;
+
+    }
+    #header h2{
+      background: radial-gradient(circle,crimson,black);
+      -webkit-background-clip:text;
+      -moz-background-clip: text;
+      background-clip: text;
+      color: transparent;
+
+
+
+    }
+    
+    .right-top {
+        position: absolute;
+        top: 50px;
+        right: 0;
+        margin: 10px;
+        size:60%;
+    }
+    #datetime {
+        position: fixed;
+        top: 10px;
+        right: 10px;
+        text-align: right;
+      }
+      
+      #date {
+        font-size: 20px;
+      }
+      
+      #time {
+        font-size: 20px;
+      }
